@@ -1,0 +1,13 @@
+{
+  "name": "InForse",
+  "scripts": {
+    "cy": "npx cypress open --e2e --browser chrome"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "devDependencies": {
+    "cypress-map": "^1.21.0"
+  }
+}
